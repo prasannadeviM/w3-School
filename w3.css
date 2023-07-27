@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.w3-logo {
+    height: 50px;
+    width: 50px;
+}
+.dropdown {
+color: black;    
+}
+.dropdown:hover {
+background-color: green;
+}
+.sub-down {
+    color: rgb(230, 230, 86);
+    background-color: black;
+}
+.camp {
+    color: black;
+}
+.camp:hover {
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.signin {
+    background-color: green;
+    border-radius: 20px;
+    width: 100%;
+}
+.signin:hover {
+    background-color: green;
+    border-radius: 20px;
+}
+.login {
+    background-color: lightgreen;
+    border-radius: 20px;
+    margin-left: 10px;
+
+}
+.login:hover {
+    background-color: green;
+    border-radius: 20px;
+}
+.sticky-top{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    padding: 10px;
+    background-color: white;
+}
+.sec-nav{
+    color: white;
+    font-size: 13PX;
+   
+}
+.sec-nav:hover {
+    background-color:black;
+    color: white;
+}
+.back {
+    width: 100%;
+    height:auto;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    background-color: black;
+    border:1px solid black;
+}
+.box {
+   
+    border-radius: 30px;
+}
+.box2 {
+    width: 40%;
+    
+}
+
+.search-button {
+    background-color: green;
+    color: white;
+    border-radius:20px ;
+}
+.search-button:hover {
+    background-color: green; 
+}
+.ul {
+    font-size: 24px;
+    color: white;
+}
+.ul:hover {
+    color: green;
+}
+.A-block {
+    width: 100%;
+    height:auto;
+    
+    text-align: center;
+    display: inline-block; 
+    background-color: #D9EEE1!important;
+    border: 1px solid  #D9EEE1 ;
+}
+.html {
+    background-color: lightgreen;
+    border: 1px solid lightgreen;
+    color: white;
+    padding: 8px;
+    width: 30%;
+    border-radius: 23px;
+    font-weight: 500;
+}
+.html:hover {
+    background-color: green;
+}
+.css {
+    background-color: lightyellow;
+    border: 1px solid lightyellow;
+    color: black;
+    padding: 8px;
+    width: 30%;
+    border-radius: 23px;
+    font-weight: 500;
+}
+.css:hover {
+    background-color: yellow;
+}
+.ref {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    padding: 8px;
+    width: 30%;
+    border-radius: 23px;
+    font-weight: 500;
+}
+.ref:hover {
+    background-color:black;
+}
+.certified {
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    color: black;
+    padding: 8px;
+    width: 30%;
+    border-radius: 23px;
+    font-weight: 500;
+}
+.certified:hover {
+    background-color: pink;
+}
+.BD {
+    height: 80%;
+    width: 60%;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+}
+.AB {
+    background-color: white;
+    border: 1px solid white;
+    height: 100%;
+    width: 95.5%;  
+}
+.CD {
+    background-color: green;
+    border: 1px solid green;
+    height: 100%;
+    width: 8px;
+}
+.try {
+    background-color: lightgreen;
+    border: 1px solid lightgreen;
+    color: white;
+    width: 50%;
+    height: 10%;
+    border-radius: 20px;
+}
+.try:hover {
+    background-color: green; 
+}
+.php {
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.bphp {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    padding: 8px;
+    width: 30%;
+    border-radius: 23px;
+    font-weight: 500;   
+}
+.jquery {
+    background-color: lightyellow;
+    border: 1px solid lightyellow;
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.java {
+    background-color: rgb(231, 221, 222);
+    border: 1px solid rgb(204, 188, 190);
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.c {
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.w3 {
+    background-color: lightseagreen;
+    border: 1px solid lightseagreen;
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.boot {
+    background-color: lightpink;
+    border: 1px solid lightpink;
+    height: 50%;
+    width: 80%;
+    border-radius: 10px;
+}
+.R {
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 7px; 
+    height: 50%;
+    width: 80%;
+}
+
+
